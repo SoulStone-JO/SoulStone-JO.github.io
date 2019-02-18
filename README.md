@@ -1,2 +1,2 @@
-# SoulStoneJo.github.io
-SoulStone's personal website
+# SoulStoneJo's Personal Web 
+SoulStone 学习笔记导航
