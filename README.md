@@ -8,3 +8,9 @@ This is a website for recording personal learning notes.
 毎日少しずつ進んでいます。♪（＾∀＾●）ﾉ
 
 ### 笔记列表
+
+* [人工智能](#) 
+
++ [PYTHON爬虫](#) 
+
+- [算法(Java)](#) 
