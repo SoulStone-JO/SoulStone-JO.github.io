@@ -9,7 +9,7 @@ This is a website for recording personal learning notes.
 
 ### 笔记列表
 
-* [人工智能](#) 
+* [人工智能](AI_Python/index.md) 
 
 + [PYTHON爬虫](Crawler_Python/index.md) 
 
