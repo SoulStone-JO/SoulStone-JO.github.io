@@ -13,4 +13,4 @@ This is a website for recording personal learning notes.
 
 + [PYTHON爬虫](#) 
 
-- [算法(Java)](https://github.com/SoulStone-JO/Algorithm_Java/blob/master/INDEX.md) 
+- [算法(Java)](Algorithm_Java/Index.md) 
